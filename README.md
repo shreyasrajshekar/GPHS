@@ -49,6 +49,6 @@ Pothole Tracker is a React Native app that detects potholes using your smartphon
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/pothole-tracker.git
+   git clone https://github.com/shreyasrajshekar/pothole-tracker.git
    cd pothole-tracker
 
